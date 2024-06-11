@@ -1,5 +1,6 @@
 # 💫 About Me:
-💽 Data Engineer <br>🐍 Python <br>☁️ Google Cloud Platform <br>🖥️ Linux <br>🔐 Cybersecurity
+💽 GCP Data Engineer <br> 🔍 BigQuery <br>
+🐍 Python <br>☁️ Google Cloud Platform <br>🖥️ Linux <br>🔐 Cybersecurity
 
 
 ## 🌐 Socials:
