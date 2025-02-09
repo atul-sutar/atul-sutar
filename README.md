@@ -19,7 +19,7 @@
 <!--### 🔝 Top Contributed Repo -->
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=atul-sutar&limit=5&theme=flat&combine_all_yearly_contributions=true) -->
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/byteragex)
+<!-- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/byteragex) -->
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=atul-sutar&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
