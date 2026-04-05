@@ -9,7 +9,7 @@ Currently diving deep into the latest GenAI tech stack and sharing the journey t
 **BigQuery SQL Workbench (AI-Powered)**  
 An AI-driven showcase demonstrating how LLMs can optimize BigQuery SQL queries with documentation-backed suggestions.
 
-🔗 https://www.atul-sutar.com  
+🔗 [Projects](https://projects.atulsutar.com)  
 
 ---
 
